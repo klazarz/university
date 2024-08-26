@@ -13,4 +13,4 @@ Welcome to the Oracle Machine Learning (OML) with Autonomous Database Workshop. 
 
 **Click the image to use our easy to navigate HTML format:**
 
-[![Oracle Machine Learning](images/adboml.png " ")](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=560)
+[![Oracle Machine Learning](images/adboml.png " ")](https://livelabs.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=560)
